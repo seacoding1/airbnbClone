@@ -1,0 +1,12 @@
+.cate_div {
+    
+    padding: 5px;
+           }
+.cate_wrap {overflow: hidden;display: flex;}
+.cate_wrap li{float:left;padding:10px 1%;margin: 0 0.5%;}
+.cate_wrap li:hover {opacity: 100%;}
+.cate_wrap li p {font-size: 12px;font-weight: bold;text-align: center;padding-top: 5px;}
+.cate_wrap li img {
+    display : block; 
+    margin : auto;
+}
